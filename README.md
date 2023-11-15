@@ -488,7 +488,8 @@ color: #62260C;
 ```
 
 ## OUTPUT:
-![image](https://github.com/Anbuselvan04/Figma/assets/119410896/f3ad2643-19d8-4977-a84f-9df7a534e6af)
+![281140519-f3ad2643-19d8-4977-a84f-9df7a534e6af](https://github.com/Rakesh2k23/Figma/assets/141472158/7b8919d5-9e95-4c33-b020-8323e1b8b575)
+
 
 
 ## RESULT:
